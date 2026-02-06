@@ -11,14 +11,14 @@ Price trends
 Impact of amenities
 Investor vs residential buying behavior
 
-🛠️ Tools Used
+Tools Used
 
 Python – Cleaning and preparing raw dataset
 SQL (T-SQL) – Analytical processing & KPI generation
 Excel – Data inspection
 Power BI – Visualization and dashboarding
 
-📊 Dashboard Highlights
+ Dashboard Highlights
 
 Total Sales Value: 3.58 Billion AED
 Average Property Price: 7.30M AED
@@ -26,7 +26,7 @@ Price per SQM: 10.22K AED
 Highest demand: 1 B/R Units
 Parking increases property value significantly
 
-📁 Repository Files
+ Repository Files
 
 | File      | Description                    |
 | --------- | ------------------------------ |
@@ -35,11 +35,11 @@ Parking increases property value significantly
 | **.xlsx** | Cleaned dataset                |
 | **.pdf**  | Full professional report       |
 
-📦 How to Run
+ How to Run
 
 Run SQL script to reproduce KPIs.
 Load Excel dataset into Power BI.
 View dashboards for insights.
 
-📞 Contact
+Contact
 For any clarifications related to the analysis or dataset, feel free to reach out.
